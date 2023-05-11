@@ -9,5 +9,7 @@ A curated list of interactive learning tools and interactive explanations.
     > Step by step explanation of TLS by showing the trace of fetching the same page
 
 # Math
-  - [Immersive Math](http://immersivemath.com/ila/index.html)
+  - [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
     > Interactive explanation of linear algebra concepts like vectors and matrices
+  - [Interactive Fourier](https://www.jezzamon.com/fourier/)
+    > Interactive Introduction to Fourier Transformation
