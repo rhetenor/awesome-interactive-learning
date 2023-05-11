@@ -5,6 +5,8 @@ A curated list of FOSS interactive learning tools and interactive explanations.
    > VIM Tutorial
  - [Regex101](https://regex101.com)
    > Regex Explainer
+ - [Git Branching](https://learngitbranching.js.org/)
+   > Git Tutorial
  
 # Programming / System Engineering
  - [Kernel Map](https://makelinux.github.io/kernel/map/)
