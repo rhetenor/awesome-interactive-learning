@@ -1,4 +1,4 @@
-A curated list of interactive learning tools
+A curated list of interactive learning tools and interactive explanations.
 
 # Tools
  - [OpenVIM](https://www.openvim.com/)
