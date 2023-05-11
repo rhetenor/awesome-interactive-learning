@@ -1,4 +1,4 @@
-A curated list of FOSS interactive learning tools and interactive explanations.
+A curated list of free interactive learning tools and interactive explanations.
 
 # Tools
  - [OpenVIM](https://www.openvim.com/)
@@ -21,3 +21,7 @@ A curated list of FOSS interactive learning tools and interactive explanations.
     > Explanation of linear algebra concepts like vectors and matrices
   - [Interactive Fourier](https://www.jezzamon.com/fourier/)
     > Introduction to Fourier Transformation
+
+# Art
+  - [Music Theory Cheat Sheet](https://muted.io/cheat-sheet/)
+    > Cheat sheet for music theory
