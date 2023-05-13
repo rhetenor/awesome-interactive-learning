@@ -7,13 +7,17 @@ A curated list of free interactive learning tools and interactive explanations.
    > Regex Explainer
  - [Git Branching](https://learngitbranching.js.org/)
    > Git Tutorial
+
+ - https://www.git-tower.com/learn
  
 # Programming / System Engineering
  - [Kernel Map](https://makelinux.github.io/kernel/map/)
    > Map of the linux Kernel with its components and interaction
  - [SQLBolt](https://news.ycombinator.com/item?id=27842067)
    > SQL Tutorial
-  
+
+ - [learnpython.org](https://www.learnpython.org/)
+  > Learn python
 # Internet / Web Technologies
  - [TLS fetching](https://subtls.pages.dev/)
     > Step by step explanation of TLS by showing the trace of fetching the same page
