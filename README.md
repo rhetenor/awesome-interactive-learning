@@ -17,6 +17,10 @@ A curated list of free interactive learning tools and interactive explanations.
    > SQL Tutorial
  - [learnpython.org](https://www.learnpython.org/)  
    > Learn python
+ - [TryClojure](https://tryclojure.org/)
+   > Clojure Tutorial\
+
+
 # Internet / Web Technologies
  - [TLS fetching](https://subtls.pages.dev/)
     > Step by step explanation of TLS by showing the trace of fetching the same page
