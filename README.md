@@ -8,7 +8,6 @@ A curated list of free interactive learning tools and interactive explanations.
  - [Git Branching](https://learngitbranching.js.org/)
    > Git Tutorial
 
- - https://www.git-tower.com/learn
  
 # Programming / System Engineering
  - [Kernel Map](https://makelinux.github.io/kernel/map/)
@@ -19,6 +18,10 @@ A curated list of free interactive learning tools and interactive explanations.
    > Learn python
  - [TryClojure](https://tryclojure.org/)
    > Clojure Tutorial\
+
+# AI
+ - [learnprompting.org](https://learnprompting.org/)
+    > Interactive prompt engineering tutorial
 
 
 # Internet / Web Technologies
