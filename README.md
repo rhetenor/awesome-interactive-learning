@@ -19,6 +19,10 @@ A curated list of free interactive learning tools and interactive explanations.
  - [TryClojure](https://tryclojure.org/)
    > Clojure Tutorial\
 
+# Electronics
+ - [Ultimate Electronis Book](https://ultimateelectronicsbook.com)
+   > Electronics Basics with interactive circuit examples
+   
 # AI
  - [learnprompting.org](https://learnprompting.org/)
     > Interactive prompt engineering tutorial
