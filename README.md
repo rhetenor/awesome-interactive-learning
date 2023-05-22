@@ -18,6 +18,8 @@ A curated list of free interactive learning tools and interactive explanations.
    > Learn python
  - [TryClojure](https://tryclojure.org/)
    > Clojure Tutorial\
+ - [Memory Allocation](https://samwho.dev/memory-allocation/)
+   > Explanation of Malloc
 
 # Electronics
  - [Ultimate Electronis Book](https://ultimateelectronicsbook.com)
