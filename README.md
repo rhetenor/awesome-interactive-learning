@@ -36,6 +36,9 @@ A curated list of free interactive learning tools and interactive explanations.
 # Internet / Web Technologies
  - [TLS fetching](https://subtls.pages.dev/)
     > Step by step explanation of TLS by showing the trace of fetching the same page
+ - [Loadbalancing](https://samwho.dev/load-balancing/)
+    > Easy to complex explanation of loadbalancing
+    
 
 
 # Wargames / CTFs
