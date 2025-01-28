@@ -29,23 +29,17 @@ A curated list of free interactive learning tools and interactive explanations.
    > Electronics Basics with interactive circuit examples
    
 # AI
- - [learnprompting.org](https://learnprompting.org/)
-    > Interactive prompt engineering tutorial
-
+ - [https://bbycroft.net/llm](https://bbycroft.net/llm)
+    > Visualized LLM 
+    
+ - [https://adamharley.com/nn_vis/cnn/3d.html](https://adamharley.com/nn_vis/cnn/3d.html)
+    > 3D Convolutional Neural Network
 
 # Internet / Web Technologies
  - [TLS fetching](https://subtls.pages.dev/)
     > Step by step explanation of TLS by showing the trace of fetching the same page
  - [Loadbalancing](https://samwho.dev/load-balancing/)
     > Easy to complex explanation of loadbalancing
-    
-
-
-# Wargames / CTFs
- - [overthewire](https://overthewire.org/wargames/)  
-   > Learn to hack Linux & Web
- - [ethernaut](https://ethernaut.openzeppelin.com/)  
-   > Learn to hack Soldity
 
 # Math
   - [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
