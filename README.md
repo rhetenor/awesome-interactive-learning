@@ -47,6 +47,10 @@ A curated list of free interactive learning tools and interactive explanations.
   - [Interactive Fourier](https://www.jezzamon.com/fourier/)
     > Introduction to Fourier Transformation
 
+# Psychology
+ - [Mind Traps](https://ordinarymantrying.com/tools/mind-traps.html)
+   > Interactive quiz covering 40 cognitive biases and psychology laws — real-world scenarios reveal which mental traps affect your thinking
+
 # Art
   - [Music Theory Cheat Sheet](https://muted.io/cheat-sheet/)
     > Cheat sheet for music theory
