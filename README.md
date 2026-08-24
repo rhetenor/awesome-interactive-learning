@@ -7,8 +7,10 @@ A curated list of free interactive learning tools and interactive explanations.
    > Regex Explainer
  - [Git Branching](https://learngitbranching.js.org/)
    > Git Tutorial
-
+ - [Random Animal Picker](https://randomanimalpicker.com/)
+   > Interactive animal reference for exploring species through photos, concise facts, source links, and related species
  
+
 # Programming / System Engineering
  - [Kernel Map](https://makelinux.github.io/kernel/map/)
    > Map of the linux Kernel with its components and interaction
