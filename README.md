@@ -24,6 +24,9 @@ A curated list of free interactive learning tools and interactive explanations.
  - [Javascript](https://javascript.info/)
    > eww
 
+ - [Learn Blazingly Fast](https://learnblazinglyfast.tech/)
+   > Interactive visual simulations and quizzes for 550+ computer science, algorithm, system design, and machine learning concepts
+
 # Electronics
  - [Ultimate Electronis Book](https://ultimateelectronicsbook.com)
    > Electronics Basics with interactive circuit examples
