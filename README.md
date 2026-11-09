@@ -53,4 +53,4 @@ A curated list of free interactive learning tools and interactive explanations.
 
 # Astronomy
  - [Space Atlas — Moon Phases](https://spaceatlasedu.org/moon/phases/)
-   > Free interactive browser model for exploring how the Moon’s visible phase changes with observing geometry.
+   > Moon-phase geometry model for parent- or teacher-guided exploration. The site uses Google Analytics 4 and AdSense; unsupervised browsing by children under 13 is not recommended ([privacy notice](https://spaceatlasedu.org/privacy/)).
