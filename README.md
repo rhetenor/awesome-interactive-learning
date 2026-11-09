@@ -50,3 +50,7 @@ A curated list of free interactive learning tools and interactive explanations.
 # Art
   - [Music Theory Cheat Sheet](https://muted.io/cheat-sheet/)
     > Cheat sheet for music theory
+
+# Astronomy
+ - [Space Atlas — Moon Phases](https://spaceatlasedu.org/moon/phases/)
+   > Moon-phase geometry model for parent- or teacher-guided exploration. The site uses Google Analytics 4 and AdSense; unsupervised browsing by children under 13 is not recommended ([privacy notice](https://spaceatlasedu.org/privacy/)).
